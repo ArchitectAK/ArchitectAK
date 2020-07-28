@@ -1,6 +1,6 @@
 ## Hi, I am Ankit
 
-### 👯 I’m looking to collaborate on ...
+### My specialties include..
 - Quickly learning new skills and programming languages,
 - Problem-solving,
 - Responsive design principles,
