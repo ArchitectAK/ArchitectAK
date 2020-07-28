@@ -76,8 +76,10 @@
 ![GraphQL](https://img.shields.io/badge/-Graphql-000000?style=flat&logo=graphql)
 ![Apollo](http://img.shields.io/badge/-Apollo-000000?style=flat&logo=graphql)
 ![Microservices](http://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices)
-![React Native](http://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
+
+![React Native](http://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react)
+![Flutter](http://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![IoT](http://img.shields.io/badge/-IoT-000000?style=flat&logo=iot)
