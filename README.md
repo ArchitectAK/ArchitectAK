@@ -95,6 +95,9 @@
 ![ML](http://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=machine-learning)
 ![AR](http://img.shields.io/badge/-Augumented%20Reality-000000?style=flat&logo=ar)
 
+![Docker](http://img.shields.io/badge/-Docekr-000000?style=flat&logo=docker)
+![Kubernetes](http://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+
  🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
 
 
