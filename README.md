@@ -11,22 +11,18 @@
 
 ### 💻 Languages I have used
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-kotlin-000000?style=flat&logo=kotlin)
-
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
-
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
@@ -52,17 +48,13 @@
 
 ![Flutter](http://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
-
 ![React Native](http://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react)
-
 ![iOS](http://img.shields.io/badge/-iOS-000000?style=flat&logo=apple)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
-
 ![Firebase](http://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 
 ![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=jetbrains)
-
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
@@ -71,7 +63,6 @@
 
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
-
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-000000?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
