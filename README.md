@@ -60,6 +60,8 @@
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Trello](http://img.shields.io/badge/-Trello-000000?style=flat&logo=trello)
 ![Asana](http://img.shields.io/badge/-Asana-000000?style=flat&logo=asana)
+![RTC](http://img.shields.io/badge/-RTC-000000?style=flat&logo=ibm)
+![Jazz](http://img.shields.io/badge/-Jazz-000000?style=flat&logo=ibm)
 
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
