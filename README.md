@@ -101,6 +101,10 @@
 
  🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
 
+### Some stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=AnkitDroidGit&count_private=true&show_icons=true)](https://ankitdroidgit.github.io/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit)](https://ankitdroidgit.github.io/)
 
 ### 📫 How to reach me: ...
 
