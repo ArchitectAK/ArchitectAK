@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/AnkitDroidGit/AnkitDroidGit/master/profile.png)
 
-## Hi, I am Ankit Kumar, a polygot developer
+## Hi, I am Ankit Kumar, a Polyglot Developer
 
 ### My specialties include..
 - Quickly learning new skills and programming languages,
