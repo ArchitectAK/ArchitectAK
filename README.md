@@ -5,7 +5,7 @@
 </p>
 
 
-## Hi, I am Ankit
+## Hi, I am Ankit Kumar, a polygot developer
 
 ### My specialties include..
 - Quickly learning new skills and programming languages,
