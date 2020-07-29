@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/AnkitDroidGit/count.svg" />
 </p>
 
-![](https://raw.githubusercontent.com/AnkitDroidGit/AnkitDroidGit/master/profile.png)
+![](https://raw.githubusercontent.com/AnkitDroidGit/AnkitDroidGit/master/dp.png)
 
 ## Hi, I am Ankit Kumar, a Polyglot Developer
 
