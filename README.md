@@ -99,12 +99,14 @@
 ![Docker](http://img.shields.io/badge/-Docekr-000000?style=flat&logo=docker)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
 
- 🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
 
 ### Some stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AnkitDroidGit&count_private=true&show_icons=true)](https://ankitdroidgit.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit)](https://ankitdroidgit.github.io/)
+
+
+ 🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
 
 ### 📫 How to reach me: ...
 
@@ -116,4 +118,3 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit Kumar's DEV Profile" height="30" width="30">
 </a>
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://ankitdroidgit.github.io/)
-
