@@ -19,12 +19,12 @@
 
 ### 💻 Languages I have used
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-kotlin-000000?style=flat&logo=kotlin)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-kotlin-222222?style=flat&logo=kotlin)
+![Swift](https://img.shields.io/badge/-Swift-222222?style=flat&logo=swift)
+![Dart](https://img.shields.io/badge/-Dart-222222?style=flat&logo=dart)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
