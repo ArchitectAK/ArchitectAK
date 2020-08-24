@@ -102,13 +102,10 @@
 
 ### Some stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit&layout=compact&theme=onedark&hide=html,css" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitDroidGit&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
-</a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitDroidGit&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit&layout=compact&theme=onedark&hide=html,css" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitDroidGit&repo=RxKotlin-RxJava2-Android-Samples&show_owner=true&theme=onedark" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitDroidGit&repo=FoldingAnimationKotlin-Android&show_owner=true&theme=onedark" /></p>
 
 
  🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
