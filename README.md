@@ -103,11 +103,12 @@
 ### Some stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit&theme=onedark&hide=javascript,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit&layout=compact&theme=onedark&hide=html,css" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitDroidGit&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
 </a>
+
 
 
  🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
