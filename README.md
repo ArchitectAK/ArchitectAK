@@ -104,7 +104,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitDroidGit&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit&layout=compact&theme=onedark&hide=css" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitDroidGit&repo=RxKotlin-RxJava2-Android-Samples&show_owner=true&theme=onedark" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitDroidGit&repo=FoldingAnimationKotlin-Android&show_owner=true&theme=onedark" /></p>
 
 
