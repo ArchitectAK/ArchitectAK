@@ -96,7 +96,7 @@
 ![ML](http://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=machine-learning)
 ![AR](http://img.shields.io/badge/-Augumented%20Reality-333333?style=flat&logo=ar)
 
-![Docker](http://img.shields.io/badge/-Docekr-333333?style=flat&logo=docker)
+![Docker](http://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 
