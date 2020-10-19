@@ -114,11 +114,13 @@
 
 ### 📫 How to reach me: ...
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnkKumar)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ankit.kkumar@gmail.com)
+
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://ankitdroidgit.github.io/)
+[![YouTube](http://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarankitkumar/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankitdeveloper)
 <a href="https://dev.to/ankitkumar">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit Kumar's DEV Profile" height="30" width="30">
 </a>
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://ankitdroidgit.github.io/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ankit.kkumar@gmail.com)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnkKumar)
