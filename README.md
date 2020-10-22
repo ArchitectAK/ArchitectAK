@@ -119,6 +119,7 @@
 [![YouTube](http://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA)
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/kumarankitkumar/)
 [![Medium](http://img.shields.io/badge/-Medium-000111?logo=medium)](https://medium.com/@ankitdeveloper)
-<a href="https://dev.to/ankitkumar"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://dev.to/ankitkumar"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=22></a>
+[![StackOverflow](https://img.shields.io/badge/-Stackoverflow-ef8236?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/3282461)
 [![Gmail](https://img.shields.io/badge/-GMail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.ankit.kkumar@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/AnkKumar)
