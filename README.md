@@ -113,8 +113,8 @@
  🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
 
 
-<p align="center">
-  <b><i>How to reach me: Let's connect!</i></b>
+### How to reach me: Let's connect!
+
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][Twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat&logo=Youtube&logoColor=white">][Youtube] 
