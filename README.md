@@ -112,14 +112,30 @@
 
  🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
 
-### 📫 How to reach me: ...
 
+<p align="center">
+  <b><i>How to reach me: Let's connect!</i></b>
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=react)](https://ankitdroidgit.github.io/)
-[![YouTube](http://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA)
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/kumarankitkumar/)
-[![Medium](http://img.shields.io/badge/-Medium-000111?logo=medium)](https://medium.com/@ankitdeveloper)
-<a href="https://dev.to/ankitkumar"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=22></a>
-[![StackOverflow](https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/3282461)
-[![Gmail](https://img.shields.io/badge/-GMail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.ankit.kkumar@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/AnkKumar)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][Twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=flat&logo=Hashnode&logoColor=white" />][Hashnode]
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
+[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat&logo=dev-dot-to&logoColor=white" />][Dev]
+[<img height="30" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">][Telegram]
+<br />
+<hr />
+
+[Twitter]: https://twitter.com/ayushi7rawat
+[youtube]: https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA
+[Hashnode]: http://kumarankit.hashnode.dev/
+[gmail]: mailto:dev.ankit.kkumar@gmail.com/
+[Linkedin]: https://www.linkedin.com/in/kumarankitkumar/
+[Medium]: https://ankitdeveloper.medium.com/
+[Stackoverflow]: https://stackoverflow.com/users/3282461
+[Facebook]: https://www.facebook.com/ankitoid
+[Telegram]: https://t.me/AnkKumar
+[Dev]: https://dev.to/ankitkumar
