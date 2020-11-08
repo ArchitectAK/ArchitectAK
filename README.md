@@ -131,7 +131,7 @@
 [Twitter]: https://twitter.com/KumarrAnkitt
 [youtube]: https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA
 [Hashnode]: http://kumarankit.hashnode.dev/
-[gmail]: mailto:dev.ankit.kkumar@gmail.com/
+[gmail]: mailto:ankitdroiddeveloper@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/kumarankitkumar/
 [Medium]: https://ankitdeveloper.medium.com/
 [Stackoverflow]: https://stackoverflow.com/users/3282461
