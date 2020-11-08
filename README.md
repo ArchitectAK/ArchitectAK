@@ -129,7 +129,7 @@
 <br />
 <hr />
 
-[Twitter]: https://twitter.com/ayushi7rawat
+[Twitter]: https://twitter.com/KumarrAnkitt
 [youtube]: https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA
 [Hashnode]: http://kumarankit.hashnode.dev/
 [gmail]: mailto:dev.ankit.kkumar@gmail.com/
