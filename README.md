@@ -10,10 +10,7 @@
 ### My specialties include..
 - Quickly learning new skills and programming languages,
 - Problem-solving,
-- Responsive design principles,
-- Model View View Model (MVVM),
-- MVI (Model View Intent),
-- Model View Controller (MVC) methods of organizing code.
+- Responsive design principles
 
 
 ### 💻 Languages I have used
