@@ -135,3 +135,28 @@
 [Facebook]: https://www.facebook.com/ankitoid
 [Telegram]: https://t.me/AnkKumar
 [Dev]: https://dev.to/ankitkumar
+
+
+<table><tr><td valign="top" width="50%">
+
+### My Digital Garden 🌱
+You can find my blogs at my [Website](https://ankitkumar.dev).
+- [How to deep link from notificatiom](https://ankitkumar.dev/how-to-deep-link-from-notification-in-react-native)
+- [Implementing deep linking in react native app with react navigation v5](https://ankitkumar.dev/react-native-deeplink-with-react-navigation)
+- [Fundamentals of GraphQL](https://ankitkumar.dev/fundamentals-of-graphql/)
+- [Building your own Google Chrome Extension](https://ankitkumar.dev/building-own-cheome-extension)
+- [Github Secret : Creating A GitHub Profile](https://ankitkumar.dev/github-secret-creating-github-profile) - Like this page
+- [Working with Github for the beginners](https://ankitkumar.dev/git-basics-for-beginners/)
+</td>
+<td valign="top" width="45%">
+
+### The Developer Dictionary 🌱
+Check out my latest videos on [YouTube](https://www.youtube.com/TechTalksByAnkitKumar):
+- [How to set up Flutter Dev Env | First flutter app | How hot reload works in Flutter](https://youtu.be/yseUNifjC5U)
+- [What is Flutter | Why Flutter | Advantages of Flutter | Benefits of Flutter](https://youtu.be/a-EcD1AKRag)
+- [How to deep link from notificatiom](https://youtu.be/W4800s7HiOU)
+- [Implementing deep linking in react native app with react navigation v5](https://youtu.be/s8YaclRknYw)
+- [Building your own Google Chrome Extension](https://youtu.be/CqdUGhzIddA)
+- [React Hooks Playlist](https://youtube.com/playlist?list=PLt7lRnT2c5QRVIELOi2A0NRoY7JHAQdWB)
+- [Fundamentals of GraphQL in Hindi](https://youtube.com/playlist?list=PLt7lRnT2c5QTdzvHgKybuMankvw855qMW)
+</td>
