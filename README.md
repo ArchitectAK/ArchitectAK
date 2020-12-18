@@ -137,7 +137,9 @@
 [Dev]: https://dev.to/ankitkumar
 
 
-<table><tr><td valign="top" width="50%">
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### My Digital Garden 🌱
 You can find my blogs at my [Website](https://ankitkumar.dev).
@@ -160,3 +162,5 @@ Check out my latest videos on [YouTube](https://www.youtube.com/TechTalksByAnkit
 - [React Hooks Playlist](https://youtube.com/playlist?list=PLt7lRnT2c5QRVIELOi2A0NRoY7JHAQdWB)
 - [Fundamentals of GraphQL in Hindi](https://youtube.com/playlist?list=PLt7lRnT2c5QTdzvHgKybuMankvw855qMW)
 </td>
+</tr>
+</table>
