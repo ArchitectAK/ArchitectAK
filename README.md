@@ -142,7 +142,7 @@
 <td valign="top" width="50%">
 
 ### My Digital Garden 🌱
-You can find my blogs at my [Website](https://ankitkumar.dev).
+You can find my blogs at my [Tech Blog Website](https://ankitkumar.dev).
 - [Top Flutter Advantages and Why You Should Try Flutter on Your Next Project](https://ankitkumar.dev/why-flutter/)
 - [How to deep link from notificatiom](https://ankitkumar.dev/how-to-deep-link-from-notification-in-react-native)
 - [Implementing deep linking in react native app with react navigation v5](https://ankitkumar.dev/react-native-deeplink-with-react-navigation)
@@ -154,7 +154,7 @@ You can find my blogs at my [Website](https://ankitkumar.dev).
 <td valign="top" width="45%">
 
 ### The Developer Dictionary 🌱
-Check out my latest videos on [YouTube](https://www.youtube.com/TechTalksByAnkitKumar):
+Check out my latest videos on [YouTube Channel](https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA):
 - [How to set up Flutter Dev Env | First flutter app | How hot reload works in Flutter](https://youtu.be/yseUNifjC5U)
 - [What is Flutter | Why Flutter | Advantages of Flutter | Benefits of Flutter](https://youtu.be/a-EcD1AKRag)
 - [How to deep link from notificatiom](https://youtu.be/W4800s7HiOU)
