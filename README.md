@@ -143,6 +143,7 @@
 
 ### My Digital Garden 🌱
 You can find my blogs at my [Website](https://ankitkumar.dev).
+- [Top Flutter Advantages and Why You Should Try Flutter on Your Next Project](https://ankitkumar.dev/why-flutter/)
 - [How to deep link from notificatiom](https://ankitkumar.dev/how-to-deep-link-from-notification-in-react-native)
 - [Implementing deep linking in react native app with react navigation v5](https://ankitkumar.dev/react-native-deeplink-with-react-navigation)
 - [Fundamentals of GraphQL](https://ankitkumar.dev/fundamentals-of-graphql/)
