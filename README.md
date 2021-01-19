@@ -155,10 +155,13 @@ You can find my blogs at my [Tech Blog Website](https://ankitkumar.dev).
 
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube Channel](https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA):
-- [How to set up Flutter Dev Env | First flutter app | How hot reload works in Flutter](https://youtu.be/yseUNifjC5U)
-- [What is Flutter | Why Flutter | Advantages of Flutter | Benefits of Flutter](https://youtu.be/a-EcD1AKRag)
-- [How to deep link from notificatiom](https://youtu.be/W4800s7HiOU)
+- [Flutter Widgets | Widget role in Flutter App | Flutter Widget Tree | Flutter Widgets Explained 2021](https://www.youtube.com/watch?v=1eE9nt7RvXA)
+- [Ultimate Guide for Web Developers 2021 | How to Become a Web Developer in 2021](https://www.youtube.com/watch?v=lYVQUc6QKUM)
+- [Ultimate Flutter Setup in 2021 | First flutter app | How hot reload works in Flutter](https://youtu.be/yseUNifjC5U)
+- [Parallel Testing using PyTest, Appium & Python | Parallel Test Execution in 2021](https://www.youtube.com/watch?v=QcMCfdE_AmE)
+- [What is Flutter, Why Flutter and things we all must know about Flutter](https://youtu.be/a-EcD1AKRag)
 - [Implementing deep linking in react native app with react navigation v5](https://youtu.be/s8YaclRknYw)
+- [How to deep link from notificatiom](https://youtu.be/W4800s7HiOU)
 - [Building your own Google Chrome Extension](https://youtu.be/CqdUGhzIddA)
 - [React Hooks Playlist](https://youtube.com/playlist?list=PLt7lRnT2c5QRVIELOi2A0NRoY7JHAQdWB)
 - [Fundamentals of GraphQL in Hindi](https://youtube.com/playlist?list=PLt7lRnT2c5QTdzvHgKybuMankvw855qMW)
