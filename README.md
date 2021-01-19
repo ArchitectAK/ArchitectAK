@@ -150,6 +150,7 @@ You can find my blogs at my [Tech Blog Website](https://ankitkumar.dev).
 - [Building your own Google Chrome Extension](https://ankitkumar.dev/building-own-cheome-extension)
 - [Github Secret : Creating A GitHub Profile](https://ankitkumar.dev/github-secret-creating-github-profile) - Like this page
 - [Working with Github for the beginners](https://ankitkumar.dev/git-basics-for-beginners/)
+- [Getting Started with CameraX API](https://ankitkumar.dev/camera-x-android/)
 </td>
 <td valign="top" width="45%">
 
