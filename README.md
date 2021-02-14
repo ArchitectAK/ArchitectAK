@@ -143,6 +143,7 @@
 
 ### My Digital Garden 🌱
 You can find my blogs at my [Tech Blog Website](https://ankitkumar.dev).
+- [100 most asked JavaScript Interview Questions and Answers - Part 1](https://ankitkumar.dev/100-JS-interview-question-part1/)
 - [Top Flutter Advantages and Why You Should Try Flutter on Your Next Project](https://ankitkumar.dev/why-flutter/)
 - [How to deep link from notificatiom](https://ankitkumar.dev/how-to-deep-link-from-notification-in-react-native)
 - [Implementing deep linking in react native app with react navigation v5](https://ankitkumar.dev/react-native-deeplink-with-react-navigation)
@@ -156,7 +157,7 @@ You can find my blogs at my [Tech Blog Website](https://ankitkumar.dev).
 
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube Channel](https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA):
-- [Flutter Widgets | Widget role in Flutter App | Flutter Widget Tree | Flutter Widgets Explained 2021](https://www.youtube.com/watch?v=1eE9nt7RvXA)
+- [Top 100 JavaScript Questions and Answers 2021- Part 1](https://www.youtube.com/watch?v=kkKpgNNsB_8)
 - [Ultimate Guide for Web Developers 2021 | How to Become a Web Developer in 2021](https://www.youtube.com/watch?v=lYVQUc6QKUM)
 - [Ultimate Flutter Setup in 2021 | First flutter app | How hot reload works in Flutter](https://youtu.be/yseUNifjC5U)
 - [Parallel Testing using PyTest, Appium & Python | Parallel Test Execution in 2021](https://www.youtube.com/watch?v=QcMCfdE_AmE)
