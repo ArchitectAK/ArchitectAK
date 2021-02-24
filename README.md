@@ -143,6 +143,7 @@
 
 ### My Digital Garden 🌱
 You can find my blogs at my [Tech Blog Website](https://ankitkumar.dev).
+- [100 most asked JavaScript Interview Questions and Answers - Part 2](https://ankitkumar.dev/100-JS-interview-question-part2/)
 - [100 most asked JavaScript Interview Questions and Answers - Part 1](https://ankitkumar.dev/100-JS-interview-question-part1/)
 - [Top Flutter Advantages and Why You Should Try Flutter on Your Next Project](https://ankitkumar.dev/why-flutter/)
 - [How to deep link from notificatiom](https://ankitkumar.dev/how-to-deep-link-from-notification-in-react-native)
