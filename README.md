@@ -125,15 +125,14 @@
 <br />
 <hr />
 
-[Twitter]: https://twitter.com/KumarrAnkitt
-[youtube]: https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA
+[Twitter]: https://twitter.com/ArchitectAK
+[youtube]: https://www.youtube.com/channel/TechTalksWithAK
 [Hashnode]: http://kumarankit.hashnode.dev/
 [gmail]: mailto:ankitdroiddeveloper@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/kumarankitkumar/
 [Medium]: https://ankitdeveloper.medium.com/
 [Stackoverflow]: https://stackoverflow.com/users/3282461
-[Facebook]: https://www.facebook.com/ankitoid
-[Telegram]: https://t.me/AnkKumar
+[Telegram]: https://t.me/ArchitectAK
 [Dev]: https://dev.to/ankitkumar
 
 
