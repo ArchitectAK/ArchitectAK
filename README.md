@@ -120,7 +120,6 @@
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat&logo=dev-dot-to" />][Dev]
 [<img height="30" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src = "https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">][Telegram]
 <br />
 <hr />
