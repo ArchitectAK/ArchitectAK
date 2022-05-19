@@ -5,7 +5,7 @@
 
 ![](https://raw.githubusercontent.com/AnkitDroidGit/AnkitDroidGit/master/dp.png)
 
-## Hi, I am Ankit Kumar, a Polyglot Developer
+## Hi, I am Ankit Kumar, Certified Blockchain Developer and Architect
 
 ### My specialties include..
 - Quickly learning new skills and programming languages,
@@ -96,12 +96,12 @@
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitDroidGit&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchitectAK&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />	
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDroidGit&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />	
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchitectAK&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />	
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitDroidGit&repo=RxKotlin-RxJava2-Android-Samples&show_owner=true&theme=onedark" />  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitDroidGit&repo=FoldingAnimationKotlin-Android&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArchitectAK&repo=RxKotlin-RxJava2-Android-Samples&show_owner=true&theme=onedark" />  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArchitectAK&repo=FoldingAnimationKotlin-Android&show_owner=true&theme=onedark" />
 </p>	
 
 
