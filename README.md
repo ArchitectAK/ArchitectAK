@@ -3,9 +3,7 @@
   <img src="https://profile-counter.glitch.me/AnkitDroidGit/count.svg" />
 </p>
 
-![](https://raw.githubusercontent.com/AnkitDroidGit/AnkitDroidGit/master/dp.png)
-
-## Hi, I am Ankit Kumar, Certified Blockchain Developer and Architect
+## Hi, I am Ankit Kumar,
 
 ### My specialties include..
 - Quickly learning new skills and programming languages,
